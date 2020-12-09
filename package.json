@@ -1,0 +1,17 @@
+{
+    "name":"N32G020",
+    "Core":"Cortex M0",
+    "Vendor":"nationstech",
+    "description":"Cortex M0 N32G020 MCU",
+    "keywords": [
+        "80MHz",
+        "AES","DES","3DES","ECC","RSA","SHA1","SHA224","SHA256","SHA384","SHA512",
+        "USART","UART","ADC","DAC","LDO","USB","I2C","SPI",
+        "LQFP48","LQFP32","QFN48","QFN32",
+        "-40℃","85℃",
+        "5.5V","1.8V"
+    ],
+    "url":"https://github.com/SoCXin/N32G020",
+    "homepage": "https://www.nationstech.com/N32G020/",
+    "version":"1.0.0"
+}
